@@ -178,6 +178,16 @@ if (isConditionTrue_0) {
 }
 
 
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
 };
 
 gdjs.Game_32SceneCode.func = function(runtimeScene) {
